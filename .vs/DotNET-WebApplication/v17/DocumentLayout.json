@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|c:\\users\\ms622\\onedrive\\desktop\\projects_archive\\dotnet-webapplication\\dotnet-webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|solutionrelative:dotnet-webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|c:\\users\\ms622\\onedrive\\desktop\\projects_archive\\dotnet-webapplication\\dotnet-webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|solutionrelative:dotnet-webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|c:\\users\\ms622\\onedrive\\desktop\\projects_archive\\dotnet-webapplication\\dotnet-webapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|solutionrelative:dotnet-webapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|c:\\users\\ms622\\onedrive\\desktop\\projects_archive\\dotnet-webapplication\\dotnet-webapplication\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|solutionrelative:dotnet-webapplication\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|c:\\users\\ms622\\onedrive\\desktop\\projects_archive\\dotnet-webapplication\\dotnet-webapplication\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|solutionrelative:dotnet-webapplication\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|c:\\users\\ms622\\onedrive\\desktop\\projects_archive\\dotnet-webapplication\\dotnet-webapplication\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E935F88-5E11-4B83-99AF-AE2F30980743}|DotNET-WebApplication\\DotNET-WebApplication.csproj|solutionrelative:dotnet-webapplication\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\HomeController.cs",
+              "RelativeDocumentMoniker": "DotNET-WebApplication\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\HomeController.cs",
+              "RelativeToolTip": "DotNET-WebApplication\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:26:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\ProductService.cs",
+              "RelativeDocumentMoniker": "DotNET-WebApplication\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\ProductService.cs",
+              "RelativeToolTip": "DotNET-WebApplication\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:26:24.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "DotNET-WebApplication\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\CustomMiddleware.cs",
+              "RelativeToolTip": "DotNET-WebApplication\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:25:11.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "DotNET-WebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\appsettings.json",
+              "RelativeToolTip": "DotNET-WebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T08:23:55.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\Startup.cs",
+              "RelativeDocumentMoniker": "DotNET-WebApplication\\Startup.cs",
+              "ToolTip": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\Startup.cs",
+              "RelativeToolTip": "DotNET-WebApplication\\Startup.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:21:45.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "DotNET-WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Ms622\\OneDrive\\Desktop\\Projects_Archive\\DotNET-WebApplication\\DotNET-WebApplication\\Program.cs",
+              "RelativeToolTip": "DotNET-WebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:19:21.713Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 148,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
